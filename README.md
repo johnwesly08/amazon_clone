@@ -41,7 +41,7 @@ Welcome to the Amazon Clone project! This project aims to create a fully functio
 
 To get started with Amazon_clone, follow these steps:
 
-1.  Clone this repository: `git clone https://github.com/johnwesly08/amazon_clone`
+1.  Clone this repository: `git clone https://github.com/johnwesly08/amazon_clone.git`
 2.  Change directory to client.
 3.  Install dependencies: `npm install`
 4.  Run Client Server: `npm run dev`

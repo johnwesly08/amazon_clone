@@ -1,0 +1,26 @@
+Amazon Clone
+    Amazon Shopping Website give full access to each and every customers. We provide all the necessary things for the day-to-day life. All the products that we provide will be quality assured one. We care for each customer and their needies as our prior job. For more information, Log on to amazon.com 
+
+Features
+    * online payment system
+    * OAuth
+    * Product List
+    * Add to Cart
+    * Find products
+
+Product Categories
+    * Outfits
+    * Accessories (watch, belt, etc.,)
+    * Electronics 
+    * Accessories (mobile, laptop, etc.,)
+
+Tech Stack
+    * Client - ReactJS
+    * Server - ExpressJS, NodeJS
+    * DataBase - MongoDB Atlas, Firebase
+    * Authentication - OAuth (Firebase), JWT
+    * Assets - Firebase (Base64)
+    
+Deployment
+    * Client - Vercel
+    * Server - Netlify
