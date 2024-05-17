@@ -54,6 +54,10 @@ To get started with Amazon_clone, follow these steps:
 [John Wesly P D](https://github.com/johnwesly08)
 [Devakrishnan Gopal](https://github.com/gdevakrishnan)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Acknowledgment
 
     - Inspiration: [Amazon](https://amazon.in)
