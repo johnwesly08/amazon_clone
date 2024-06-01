@@ -1,0 +1,1 @@
+// To handle admin routes
